@@ -4,7 +4,7 @@ site_theme               : "default"
 title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
-description              : &description "Junteng Liu is a Ph.D. candidate at the HKUST NLP Group, Hong Kong University of Science and Technology. His research focuses on natural language processing and machine learning, including LLM reasoning and reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability."
+description              : &description "Junteng Liu is a Ph.D. candidate at the HKUST NLP Group, Hong Kong University of Science and Technology. Research focuses on natural language processing and machine learning, including LLM reasoning and reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability."
 url                      : https://romdamseldetect.github.io
 baseurl                  : "/LJT-Homepage"
 repository               : "RomDamselDetect/LJT-Homepage"
@@ -14,7 +14,7 @@ author:
   avatar           : "profile.png"
   name             : "Junteng Liu"
   pronouns         :
-  bio              : "Ph.D. candidate at the HKUST NLP Group, Hong Kong University of Science and Technology. His research focuses on natural language processing and machine learning."
+  bio              : "Ph.D. candidate at the HKUST NLP Group, Hong Kong University of Science and Technology. Research focuses on natural language processing and machine learning."
   location         :
   employer         : "Hong Kong University of Science and Technology"
   uri              :
